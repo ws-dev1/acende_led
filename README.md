@@ -15,4 +15,9 @@ Projeto feito com base na eletrônica basica, que visa acender um led atraves de
 - 2 jumper
 - led verde
 - resistor
-- fonte 12v 
+- fonte 12v
+
+
+## link
+
+tinkercad: https://www.tinkercad.com/things/7R4hkOEzCOA-mighty-hango-hillar
